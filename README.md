@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=flamingolindo&label=Profile%20views&color=0e75b6&style=flat" alt="flamingolindo" /> </p>
 
-<p align="left"> <a href="https://twitter.com/https://twitter.com/lindoflamingo" target="blank"><img src="https://img.shields.io/twitter/follow/https://twitter.com/lindoflamingo?logo=twitter&style=for-the-badge" alt="https://twitter.com/lindoflamingo" /></a> </p>
-
 - ⭐ My main project right now is: [Flamingo's useless terminal](https://github.com/FlamingoLindo/Home_teminal)
 
 - 🤖 I also do some automation stuff (web and mobile): [Motofind](https://github.com/FlamingoLindo/AutoMotorFind)
