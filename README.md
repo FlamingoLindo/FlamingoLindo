@@ -1,7 +1,7 @@
 <h1 align="center">Yo👋🥸, I'm Vitor (Flamingo) Antunes Ferreira</h1>
 <h3 align="center">Just someone from Brazil trying to be someone else</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=flamingolindo&label=Profile%20views&color=0e75b6&style=flat" alt="flamingolindo" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=flamingolindo&label=Profile%20views&colorblueviolet&style=for-the-badge" alt="flamingolindo" /> </p>
 
 - 🤠 Fun fact: **I'm not dead (yet)**
 
