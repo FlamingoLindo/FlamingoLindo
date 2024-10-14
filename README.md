@@ -1,7 +1,7 @@
 <h1 align="center">Yo👋🥸, I'm Vitor (Flamingo) Antunes Ferreira</h1>
 <h3 align="center">Just someone from Brazil trying to be someone else</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=flamingolindo&label=Profile%20views&colorblueviolet&style=for-the-badge" alt="flamingolindo" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=flamingolindo&label=Profile%20views&color=blueviolet&style=for-the-badge" alt="flamingolindo" /> </p>
 
 - 🤠 Fun fact: **I'm not dead (yet)**
 
@@ -14,6 +14,6 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=flamingolindo&show_icons=true&locale=en&layout=compact" alt="flamingolindo" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=flamingolindo&show_icons=true&locale=en" alt="flamingolindo" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=flamingolindo&show_icons=true&theme=dark#gh-dark-mode-only&locale=en" alt="flamingolindo" /></p>
 
 <p>The most used languages and tools graph is lying, it says all of that stuff, because of a project that I made using pyinstaller</p>
