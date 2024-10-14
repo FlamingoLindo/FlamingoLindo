@@ -3,19 +3,8 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=flamingolindo&label=Profile%20views&color=0e75b6&style=flat" alt="flamingolindo" /> </p>
 
-- ⭐ My main project right now is: [Flamingo's useless terminal](https://github.com/FlamingoLindo/Home_teminal)
+- 🤠 Fun fact: **I'm not dead (yet)**
 
-- 🤖 I also do some automation stuff (web and mobile): [Motofind](https://github.com/FlamingoLindo/AutoMotorFind)
-
-- 🤓 Also did a little translator: [Amazing translator](https://github.com/FlamingoLindo/Shit_Translator)
-
-- 👨‍💻 All of my projects are available at: [https://github.com/FlamingoLindo?tab=repositories](https://github.com/FlamingoLindo?tab=repositories)
-
-- 📫 How to reach me: **Any of the socials in my profile**
-
-- ⚡ Fun fact: **I'm not dead (yet)**
-
-<h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/vitor ferreira" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="vitor ferreira" height="30" width="40" /></a>
 </p>
@@ -27,4 +16,4 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=flamingolindo&show_icons=true&locale=en" alt="flamingolindo" /></p>
 
-<p>Tthe most used languages and tools graph is lying, it says all of that stuff, because of a project that I made using pyinstaller</p>
+<p>The most used languages and tools graph is lying, it says all of that stuff, because of a project that I made using pyinstaller</p>
