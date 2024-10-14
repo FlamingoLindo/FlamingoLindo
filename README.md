@@ -17,7 +17,6 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/https://twitter.com/lindoflamingo" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="https://twitter.com/lindoflamingo" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/vitor ferreira" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="vitor ferreira" height="30" width="40" /></a>
 </p>
 
@@ -28,3 +27,4 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=flamingolindo&show_icons=true&locale=en" alt="flamingolindo" /></p>
 
+<p>Tthe most used languages and tools graph is lying, it says all of that stuff, because of a project that I made using pyinstaller</p>
