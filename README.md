@@ -15,5 +15,3 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=flamingolindo&hide_progress=true&locale=en&layout=compact&theme=neon" alt="flamingolindo" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=flamingolindo&show_icons=true&theme=neon&locale=en" alt="flamingolindo" /></p>
-
-<p>The most used languages and tools graph is lying, it says all of that stuff, because of a project that I made using pyinstaller</p>
