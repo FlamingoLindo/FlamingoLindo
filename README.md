@@ -3,7 +3,8 @@
 - 22
 - Last year of university
 - Brazilian Software Engineer
-- Currently working as a QA in [Mestres da Web](https://github.com/Mestres-da-Web)
+- Currently working as a back-end developer in [Mestres da Web](https://github.com/Mestres-da-Web)
+(former QA)
 - Always looking for new stuff to learn 🥸
 
 <p align="center">
